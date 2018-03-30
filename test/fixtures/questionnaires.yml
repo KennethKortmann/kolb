@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  question_number: 1
+  activist: 1
+  reflector: 1
+  theorist: 1
+  pragmatist: 1
+
+two:
+  question_number: 1
+  activist: 1
+  reflector: 1
+  theorist: 1
+  pragmatist: 1
