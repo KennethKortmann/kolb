@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :questions
 get '/questionnaire', to: 'questions#index', as: 'questionnaire'
 
 post '/answer/index', to: 'answer#index'
